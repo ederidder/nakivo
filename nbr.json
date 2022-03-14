@@ -1,5 +1,5 @@
 {
-    "name": "nbr",
+    "name": "Nakivo",
     "release": "12.2-RELEASE",
     "artifact": "https://github.com/NAKIVO/iocage-plugin-nbr.git",
     "properties": {
