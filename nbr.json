@@ -1,5 +1,5 @@
 {
-    "name": "Nakivo",
+    "name": "nbr",
     "release": "12.2-RELEASE",
     "artifact": "https://github.com/ederidder/nakivo.git",
     "properties": {
